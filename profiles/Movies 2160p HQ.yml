@@ -14,7 +14,7 @@ description: 'This profile is specifically designed to allow HQ audio formats th
 tags:
 - Radarr
 - 2160p
-upgradesAllowed: true
+upgradesAllowed: false
 minCustomFormatScore: 1000
 upgradeUntilScore: 10000
 minScoreIncrement: 1

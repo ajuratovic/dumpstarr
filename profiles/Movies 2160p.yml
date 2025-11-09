@@ -16,7 +16,7 @@ tags:
 - Radarr
 - 2160p
 - HQ
-upgradesAllowed: true
+upgradesAllowed: false
 minCustomFormatScore: 1000
 upgradeUntilScore: 10000
 minScoreIncrement: 1

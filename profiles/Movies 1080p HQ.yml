@@ -12,7 +12,7 @@ tags:
 - Radarr
 - 1080p
 - HQ
-upgradesAllowed: true
+upgradesAllowed: false
 minCustomFormatScore: 1000
 upgradeUntilScore: 10000
 minScoreIncrement: 1
