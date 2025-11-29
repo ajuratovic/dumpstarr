@@ -1,27 +1,21 @@
-name: CR
-description: ''
+name: YK
+description: Matches releases from the Youku streaming service.
 tags:
-- Anime
 - Streaming Service
 conditions:
-- name: Crunchyroll
+- name: Youku
   negate: false
-  pattern: CR
+  pattern: Youku
   required: true
   type: release_title
 - name: WEB-DL
-  negate: false
+  type: source
   required: false
+  negate: false
   source: web_dl
-  type: source
 - name: WEBRip
-  negate: false
+  type: source
   required: false
+  negate: false
   source: webrip
-  type: source
-- name: WEB
-  type: source
-  required: false
-  negate: false
-  source: television
 tests: []

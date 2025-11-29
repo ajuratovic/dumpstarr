@@ -66,8 +66,6 @@ custom_formats_radarr:
   score: 125
 - name: Dolby Digital
   score: 115
-- name: 1080p
-  score: 50
 - name: 4K Remaster
   score: 25
 - name: Remaster
@@ -76,6 +74,8 @@ custom_formats_radarr:
   score: 20
 - name: MA
   score: 20
+- name: BCORE
+  score: 15
 - name: AAC
   score: 10
 - name: Atmos

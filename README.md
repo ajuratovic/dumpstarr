@@ -2,7 +2,7 @@
 
 ## **For a media setup that isn't a dumpster fire :D**
 
-[![Discord](https://img.shields.io/discord/1408095311661891796?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/GuCgPN5KZM)
+[![Discord](https://img.shields.io/discord/1408095311661891796?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/TbYW2Q4hGv)
 > You can submit feature requests in our Discord
 
 ---
@@ -37,7 +37,7 @@ The Dumpstarr database for Profilarr is a curated collection of **custom formats
 
 Our profiles are loosely based on the structure of the **SQP-1 Alternative (Radarr)** and **WEB-2160p/1080p Alternative (Sonarr)** profiles from TRaSH.
 
-* **Release Group Tiers:** We default to the [Dictionarry Group Tiers](https://github.com/Dictionarry-Hub/database) (UHD, HD, 720p, WEB, Remux).
+* **Release Group Tiers:** We default to the [Dictionarry](https://github.com/Dictionarry-Hub/database) group tiers (UHD, HD, 720p, WEB, Remux).
 * **Alternative Groups:** The [TRaSH Guides](https://trash-guides.info/) tiers are also included if you prefer to use those instead.
 
 ---
@@ -49,4 +49,4 @@ We include several specific fixes and features for common media-sourcing annoyan
 * ✅ **Automatic Sync** of the Dictionarry Group Tiers.
 * ✅ **Parks and Recreation Fix:** Correctly sources releases from NTb.
 * ✅ **Scrubs Fix:** Avoids 25fps NTSC versions.
-* ✅ **HONE Fix:** Corrects issues with releases that have bad naming conventions.
+* ✅ **HONE Fix:** Corrects issues with releases that have bad naming conventions. (Must be manually added to any profile)
